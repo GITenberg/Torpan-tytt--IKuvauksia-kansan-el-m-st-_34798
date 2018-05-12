@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37239
     wikipedia: http://fi.wikipedia.org/wiki/Anton_Wilhelm_Lindgren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34798#Torpan-tytt--IKuvauksia-kansan-el-m-st-
 gutenberg_issued: '2010-12-31'
 gutenberg_type: Text
 identifiers:
