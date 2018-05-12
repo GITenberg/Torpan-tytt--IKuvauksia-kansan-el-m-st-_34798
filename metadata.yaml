@@ -1,0 +1,27 @@
+_repo: Torpan-tytt--IKuvauksia-kansan-el-m-st-_34798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindgren, Anton Wilhelm
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '37239'
+    url: http://www.gutenberg.org/2009/agents/37239
+    wikipedia: http://fi.wikipedia.org/wiki/Anton_Wilhelm_Lindgren
+description: ''
+gutenberg_issued: '2010-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34798'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'Torpan tyttö I: Kuvauksia kansan elämästä'
+url: http://www.gutenberg.org/ebooks/34798
